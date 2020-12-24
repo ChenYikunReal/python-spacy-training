@@ -1,4 +1,4 @@
 import spacy
 
-# 2.0.11
+# 2.3.0
 print(spacy.__version__)
